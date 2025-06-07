@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051013061215",
+    "project_id": "tender-project-a0233",
+    "storage_bucket": "tender-project-a0233.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051013061215:android:c89d663298f8eb678199ea",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu8GXZvf_hYflAVh5w2AGPD7xBIilG2VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
